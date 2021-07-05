@@ -21,7 +21,6 @@ const main = () => {
     //console.log(unAlbum.title)
     const unaBanda = new Banda (["Agustin", "Gonzalo"], [unAlbum])
     console.log("Miembros: " + unaBanda.members); console.log("Albums: " + unAlbum.title)
-    console.log("otro cambio")
 }
 
 main();
